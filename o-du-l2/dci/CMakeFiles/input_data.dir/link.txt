@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/input_data.dir/input_data.c.o  -o input_data  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

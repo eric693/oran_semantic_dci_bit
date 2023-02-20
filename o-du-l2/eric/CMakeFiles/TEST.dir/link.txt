@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTEST.a  CMakeFiles/TEST.dir/encoder.c.o CMakeFiles/TEST.dir/channel.c.o CMakeFiles/TEST.dir/decoder.c.o CMakeFiles/TEST.dir/input_data.c.o CMakeFiles/TEST.dir/candidate_sentence.c.o CMakeFiles/TEST.dir/client.c.o CMakeFiles/TEST.dir/server.c.o
+/usr/bin/ranlib libTEST.a

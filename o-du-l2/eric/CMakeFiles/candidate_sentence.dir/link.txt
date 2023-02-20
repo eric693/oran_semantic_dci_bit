@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/candidate_sentence.dir/candidate_sentence.c.o  -o candidate_sentence 

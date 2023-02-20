@@ -1,0 +1,5 @@
+/home/mwnl/o-ran_project/o-du-l2/eric/CMakeFiles/rebuild_cache.dir
+/home/mwnl/o-ran_project/o-du-l2/eric/CMakeFiles/TEST.dir
+/home/mwnl/o-ran_project/o-du-l2/eric/CMakeFiles/edit_cache.dir
+/home/mwnl/o-ran_project/o-du-l2/eric/CMakeFiles/input_data.dir
+/home/mwnl/o-ran_project/o-du-l2/eric/CMakeFiles/channel.dir

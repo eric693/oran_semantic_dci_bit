@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/channel.dir/channel.c.o  -o channel  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

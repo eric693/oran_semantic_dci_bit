@@ -1,0 +1,1 @@
+the messages will transmit from gnb to ue

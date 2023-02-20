@@ -1,0 +1,20 @@
+#include <Python.h>
+#include <stdio.h>
+
+void input_data()
+{
+	char filename[] = "input_data.py";
+	FILE* fp;
+    fp = _Py_fopen("/home/eric/test/SemanticRL/Evaluation/input_data.py", "r");
+    PyRun_SimpleFile(fp, filename);
+    
+    
+}
+
+int main(){
+    Py_Initialize();
+
+    input_data();
+	Py_Finalize();
+
+}

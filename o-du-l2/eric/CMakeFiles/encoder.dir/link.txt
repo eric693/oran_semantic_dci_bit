@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/encoder.dir/encoder.c.o  -o encoder  /usr/lib/x86_64-linux-gnu/libpython3.8.so 
